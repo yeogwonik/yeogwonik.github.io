@@ -28,8 +28,8 @@
 <br><br>
 # [관련 이미지 & 동영상]
 - 이미지  
-<img src="./Img/AlienBreedEvolution_03[1].jpg"> <br>
-<img src="./Img/다운로드.jpg">
+<img src="./img/AlienBreedEvolution_03[1].jpg"> <br>
+<img src="./img/다운로드.jpg">
 <br>
 - 동영상 <br>
 https://youtu.be/djt7IWjACNc Alien Breed <br>
@@ -39,7 +39,7 @@ https://youtu.be/zLEq_K4mQ4c 로스트아크 <br>
 
 <br><br>
 # [대표 이미지]
-<img src = "./Img/대표 이미지.png">
+<img src = "./img/대표 이미지.png">
 
 <br><br>
 # [컨셉 & 대표이미지 기반 작품묘사]
