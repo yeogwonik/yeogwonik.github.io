@@ -28,8 +28,8 @@
 <br><br>
 # [관련 이미지 & 동영상]
 - 이미지  
-<img src="./img/AlienBreedEvolution_03[1].jpg"> <br>
-<img src="./img/다운로드.jpg">
+<img src="./img/AlienBreedEvolution_03[1].jpg" width = 600 hight = 300> <br>
+<img src="./img/다운로드.jpg"  width = 600 hight = 300>
 <br>
 - 동영상 <br>
 https://youtu.be/djt7IWjACNc Alien Breed <br>
@@ -39,7 +39,7 @@ https://youtu.be/zLEq_K4mQ4c 로스트아크 <br>
 
 <br><br>
 # [대표 이미지]
-<img src = "./img/대표 이미지.png">
+<img src = "./img/대표 이미지.png"  width = 600 hight = 300>
 
 <br><br>
 # [구성 요소]
