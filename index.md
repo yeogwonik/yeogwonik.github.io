@@ -41,7 +41,7 @@ https://youtu.be/zLEq_K4mQ4c 로스트아크 <br>
 
 <br><br>
 # [대표 이미지]
-<img src = "./Img/대표 이미지.png" width = 600>
+<img src = "./img/대표 이미지.png" width = 600>
 
 <br>
 
