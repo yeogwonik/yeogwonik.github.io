@@ -45,8 +45,8 @@
 <br><br>
 # [관련 이미지 & 동영상]
 - 이미지  
-<img src="./img/AlienBreedEvolution_03[1].jpg" width = 600> <br>
-<img src="./img/다운로드.jpg" width = 600>
+<img src="./Img/AlienBreedEvolution_03[1].jpg" width = 600> <br>
+<img src="./Img/다운로드.jpg" width = 600>
 <br>
 - 동영상 <br>
 https://youtu.be/djt7IWjACNc Alien Breed <br>
@@ -56,7 +56,7 @@ https://youtu.be/zLEq_K4mQ4c 로스트아크 <br>
 
 <br><br>
 # [대표 이미지]
-<img src = "./img/대표 이미지.png" width = 600>
+<img src = "./Img/대표 이미지.png" width = 600>
 
 <br>
 
@@ -109,31 +109,31 @@ https://youtu.be/zLEq_K4mQ4c 로스트아크 <br>
 # 게임 오브젝트 분해 (구성 요소 분석)
 
 ## 1. 오브젝트 이름 : 플레이어
-<img src="./img/플레이어.jpg" width = 100>
+<img src="./Img/플레이어.jpg" width = 100>
 <br><br><br>
 
 ## 2. 오브젝트 이름 : 지형
-<img src="./img/지형.jpg" width = 200>
+<img src="./Img/지형.jpg" width = 200>
 <br><br><br>
 
 ## 3. 오브젝트 이름 : 총
-<img src="./img/총.png" width = 200>
+<img src="./Img/총.png" width = 200>
 <br><br><br>
 
 ## 4. 오브젝트 이름 : 보조 스킬
-<img src="./img/술탄.jpg" width = 200>
+<img src="./Img/술탄.jpg" width = 200>
 <br><br><br>
 
 ## 5. 오브젝트 이름 : 적 (근접)
-<img src="./img/적.png" width = 200>
+<img src="./Img/적.png" width = 200>
 <br><br><br>
 
 ## 6. 오브젝트 이름 : 적 (장거리)
-<img src="./img/적장거리.jpg" width = 200>
+<img src="./Img/적장거리.jpg" width = 200>
 <br><br><br>
 
 ## 7. 오브젝트 이름 : 적 (보스)
-<img src="./img/적보스.jpg" width = 200>
+<img src="./Img/적보스.jpg" width = 200>
 <br><br><br>
 <hr>
 
