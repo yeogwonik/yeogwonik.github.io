@@ -11,6 +11,7 @@
 [플레이어 캐릭터 속성 (파라미터)](#플레이어-캐릭터-속성-(파라미터))<br>
 [게임의 규칙](#게임의-규칙)<br>
 [게임에서 사용될 공식](#게임에서-사용될-공식)<br>
+[요구사항](#요구사항)<
 
 
 # 게임 이름 : covert operation
@@ -45,8 +46,8 @@
 <br><br>
 # [관련 이미지 & 동영상]
 - 이미지  
-<img src="./Img/AlienBreedEvolution_03[1].jpg" width = 600> <br>
-<img src="./Img/다운로드.jpg" width = 600>
+<img src="./img/AlienBreedEvolution_03[1].jpg" width = 600> <br>
+<img src="./img/다운로드.jpg" width = 600>
 <br>
 - 동영상 <br>
 https://youtu.be/djt7IWjACNc Alien Breed <br>
@@ -56,7 +57,7 @@ https://youtu.be/zLEq_K4mQ4c 로스트아크 <br>
 
 <br><br>
 # [대표 이미지]
-<img src = "./Img/대표 이미지.png" width = 600>
+<img src = "./img/대표 이미지.png" width = 600>
 
 <br>
 
@@ -109,31 +110,31 @@ https://youtu.be/zLEq_K4mQ4c 로스트아크 <br>
 # 게임 오브젝트 분해 (구성 요소 분석)
 
 ## 1. 오브젝트 이름 : 플레이어
-<img src="./Img/플레이어.jpg" width = 100>
+<img src="./img/플레이어.jpg" width = 100>
 <br><br><br>
 
 ## 2. 오브젝트 이름 : 지형
-<img src="./Img/지형.jpg" width = 200>
+<img src="./img/지형.jpg" width = 200>
 <br><br><br>
 
 ## 3. 오브젝트 이름 : 총
-<img src="./Img/총.png" width = 200>
+<img src="./img/총.png" width = 200>
 <br><br><br>
 
 ## 4. 오브젝트 이름 : 보조 스킬
-<img src="./Img/술탄.jpg" width = 200>
+<img src="./img/술탄.jpg" width = 200>
 <br><br><br>
 
 ## 5. 오브젝트 이름 : 적 (근접)
-<img src="./Img/적.png" width = 200>
+<img src="./img/적.png" width = 200>
 <br><br><br>
 
 ## 6. 오브젝트 이름 : 적 (장거리)
-<img src="./Img/적장거리.jpg" width = 200>
+<img src="./img/적장거리.jpg" width = 200>
 <br><br><br>
 
 ## 7. 오브젝트 이름 : 적 (보스)
-<img src="./Img/적보스.jpg" width = 200>
+<img src="./img/적보스.jpg" width = 200>
 <br><br><br>
 <hr>
 
@@ -334,3 +335,30 @@ https://youtu.be/zLEq_K4mQ4c 로스트아크 <br>
 2. 적과 플레이어의 거리가 어느 정도 가까워지면 적이 플레이어를 발견하고 추적한다.
 3. 적끼리 공격은 통하지 않는다.
 4. 플레이어의 공격은 관통된다.
+
+<br><br>
+<hr>
+
+# 요구사항
+
+## 게임 미션의 요구사항
+
+- 시작 씬, 게임 씬, 엔딩 씬(Bad ending), 엔딩 씬(Happy ending)으로 총 4개의 씬이 있다.
+
+- 시작화면에서는 게임 시작 버튼과 게임 종료 버튼이 있다.
+
+- 게임 시작 버튼을 누르면 노멀모드와 하드코어 모드가 있는데 두개 중 한가지를 선택해 누르면 게임 씬으로 이동하며 게임 종료 버튼을 누르면 게임이 종료된다.
+
+- 하드코어 모드에서는 게임 씬 안에 있는 적들에게 단 한대도 맞지 않고 적들을 모조리 잡아야한다.
+
+- 게임 씬에는 현재 남은 적의 숫자, 자신의 캐릭터, 스폰된 적, 맵, 스킬창, 체력이 표시된다.
+
+- 조작은 키보드와 마우스가 있는데 키보드로는 이동 및 스킬 사용을 할 수 있으며, 마우스를 이용해 원하는 방향에 공격을 할 수 있다.
+
+- 게임 씬에서 적을 죽이며 나아가다보면 적의 보스가 등장하는데 그 보스는 다른 적보다 체력도 많고 강하다.
+
+- 게임 씬 안에 있는 모든 적을 사살하면 게임은 플레이어의 승리로 해피엔딩을 볼 수 있다.
+
+- 게임 씬 안에 있는 적들을 사살하지 못하고 되려 당한다면 배드엔딩을 보게 된다.
+
+- 해피엔딩 씬과 배드엔딩 씬은 메뉴로 돌아가기 또는 게임 종료하기 버튼 두개가 있다.
