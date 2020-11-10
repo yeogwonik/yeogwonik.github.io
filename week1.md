@@ -12,8 +12,7 @@
 
 <video controls width="640" height="480">
 
-    <source src="files/week1.mp4">
+    <source src="files/week1.mp4" type="video/mp4">
 
     Sorry, your browser doesn't support embedded videos.
-
 </video>
