@@ -111,7 +111,7 @@ https://youtu.be/zLEq_K4mQ4c 로스트아크 <br>
 <hr>
 
 # 게임 오브젝트 분해 
-##구성 요소 분석
+## 구성 요소 분석
 
 ## 1. 오브젝트 이름 : 플레이어
 <img src="./img/플레이어.jpg" width = 100>
