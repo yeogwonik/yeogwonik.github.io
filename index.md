@@ -437,3 +437,6 @@ https://youtu.be/zLEq_K4mQ4c 로스트아크 <br>
 
 <img src="./img/개발 일정.png" width = 600>
 <br><br><br>
+
+## 2학기 최종 결과물<br><br>
+### https://youtu.be/jOmVC5nk-4I
