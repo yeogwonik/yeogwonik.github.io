@@ -15,12 +15,12 @@
 [흐름도](#시간별-흐름도)<br>
 [개발일지](#개발-일지)
 
-[d. 개발 1주차](./Week1.md)
-[d. 개발 2주차](./Week2.md)
-[d. 개발 3주차](./Week3.md)
-[d. 개발 4주차](./Week4.md)
-[d. 개발 5주차](./Week5.md)
-[d. 개발 6주차](./Week6.md)
+[d. 개발 1주차](./Week1.md)<br>
+[d. 개발 2주차](./Week2.md)<br>
+[d. 개발 3주차](./Week3.md)<br>
+[d. 개발 4주차](./Week4.md)<br>
+[d. 개발 5주차](./Week5.md)<br>
+[d. 개발 6주차](./Week6.md)<br>
 
 # 게임 이름 : covert operation
 
