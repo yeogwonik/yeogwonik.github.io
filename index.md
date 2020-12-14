@@ -16,12 +16,12 @@
 [개발일지](#개발-일지)<br>
 [2학기 최종 결과물](#2학기-최종-결과물)<br>
 
-[d. 개발 1주차](./Week1.md)<br>
-[d. 개발 2주차](./Week2.md)<br>
-[d. 개발 3주차](./Week3.md)<br>
-[d. 개발 4주차](./Week4.md)<br>
-[d. 개발 5주차](./Week5.md)<br>
-[d. 개발 6주차](./Week6.md)<br>
+[1. 개발 1주차](./Week1.md)<br>
+[2. 개발 2주차](./Week2.md)<br>
+[3. 개발 3주차](./Week3.md)<br>
+[4. 개발 4주차](./Week4.md)<br>
+[5. 개발 5주차](./Week5.md)<br>
+[6. 개발 6주차](./Week6.md)<br>
 
 # 게임 이름 : covert operation
 
