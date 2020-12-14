@@ -16,3 +16,6 @@
     <source src="./files/week1.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
+
+<br><br><br>
+### 동영상이 안 나올 시 http://course.pcu.ac.kr/mod/forum/discuss.php?d=5870
