@@ -18,11 +18,4 @@
 ### 3 - 1 : 3 주차 (플레이어, 적 등)에 넣을 오브젝트를 미리 찾아 놓는다. <br>
 
 <br><br><br>
-
-<video controls width="640" height="480">
-    <source src="./files/week1.mp4" type="video/mp4">
-    Sorry, your browser doesn't support embedded videos.
-</video>
-
-<br><br><br>
-### 동영상이 안 나올 시 http://course.pcu.ac.kr/mod/forum/discuss.php?d=5870
+### 동영상 파일 너무 커서(25MB 이하만 업로드 가능)사이트를 방문해 주세요. http://course.pcu.ac.kr/mod/forum/discuss.php?d=6030
