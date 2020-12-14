@@ -13,6 +13,6 @@
 ### 설명 : 기존에 있던 스토리를 완성하고 그 스토리에 맞는 분위기와 그에 맞는 배경을 제작한다.
 
 <video controls width="640" height="480">
-    <source src="files/week1.mp4" type="video/mp4">
+    <source src="./files/week1.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
