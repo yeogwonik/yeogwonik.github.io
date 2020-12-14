@@ -1,6 +1,6 @@
 # 돌아가기
 
-[d. yeogwonik.github.io](./index.md)<br>
+[yeogwonik.github.io](./index.md)<br>
 
 # 작업명 : 스토리 완성, 메뉴 제작
 
